@@ -1,0 +1,26 @@
+{
+  "name": "scala",
+  "argv": [
+    "C:\\Users\\19155\\AppData\\Local\\Coursier\\cache\\arc\\https\\github.com\\scala\\scala3\\releases\\download\\3.5.1\\scala3-3.5.1-x86_64-pc-win32.zip\\scala3-3.5.1-x86_64-pc-win32\\bin\\scala-cli.exe",
+    "--cli-default-scala-version",
+    "3.5.1",
+    "--repository",
+    "file:///C:/Users/19155/AppData/Local/Coursier/cache/arc/https/github.com/scala/scala3/releases/download/3.5.1/scala3-3.5.1-x86_64-pc-win32.zip/scala3-3.5.1-x86_64-pc-win32/maven2",
+    "--prog-name",
+    "scala",
+    "bsp",
+    "--json-options",
+    "d:\\Projects\\project1\\src\\main\\scala\\edu\\colorado\\csci3155\\project1\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "d:\\Projects\\project1\\src\\main\\scala\\edu\\colorado\\csci3155\\project1\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "d:\\Projects\\project1\\src\\main\\scala\\edu\\colorado\\csci3155\\project1\\.scala-build\\ide-envs.json",
+    "d:\\Projects\\project1\\src\\main\\scala\\edu\\colorado\\csci3155\\project1\\Main.scala"
+  ],
+  "version": "1.4.3",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
